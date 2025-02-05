@@ -1,5 +1,7 @@
+import AboutMe from "./AboutMe";
+
 function App() {
-  return <div>Your code here</div>;
+  return <AboutMe/>
 }
 
 export default App;
